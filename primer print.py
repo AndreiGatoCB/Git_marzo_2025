@@ -1,3 +1,3 @@
-import Nombre
+from Nombre2 import nombre, password
 
-print(f"{Nombre.nombre} Github marzo 2025")
+print(f"La contraseña de {nombre} en Github marzo 2025 es {password}")
