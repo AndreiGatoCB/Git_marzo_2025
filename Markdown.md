@@ -24,7 +24,7 @@ Alt- Encabezado 2
 2. Lista 2
 * Sub lista 1
 * Sub lista 2
-- Sub lista 3
+  - Sub lista 3
 + Sub lista 4
 
  Principal ventaja de utilizar la barra de herramientas de formato en 
@@ -33,7 +33,7 @@ en Markdown
 
 ## IMAGEN
 
-[IMAGEN DE PAISAJE](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "paisaje")
+![IMAGEN DE PAISAJE](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 "paisaje")
  
 ## PARTES DE CÓDIGO
 
